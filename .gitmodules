@@ -1,0 +1,9 @@
+[submodule "Hands-On-Activity-8"]
+	path = Hands-On-Activity-8
+	url = git@github.com:nyogimi/Hands-On-Activity-8.git
+[submodule "Hands-On-Activity-9"]
+	path = Hands-On-Activity-9
+	url = git@github.com:nyogimi/Hands-On-Activity-9.git
+[submodule "Hands-On-Activity-10"]
+	path = Hands-On-Activity-10
+	url = git@github.com:nyogimi/Hands-On-Activity-10.git
